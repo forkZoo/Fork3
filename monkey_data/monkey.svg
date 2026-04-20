@@ -63,29 +63,30 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#CD7F32" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#DAA06D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="234" y="146" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="188" y="172" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="142" y="198" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="256" y="224" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="210" y="250" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="164" y="276" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="278" y="142" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="172" y="188" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="224" y="256" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="276" y="164" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="168" y="232" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="220" y="140" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="272" y="208" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="164" y="276" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="162" cy="185" r="12" fill="#3D2314"/>
-<circle cx="162" cy="185" r="6" fill="#000"/>
-<circle cx="166" cy="181" r="4" fill="white"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="238" cy="185" r="12" fill="#3D2314"/>
-<circle cx="238" cy="185" r="6" fill="#000"/>
-<circle cx="242" cy="181" r="4" fill="white"/>
+<ellipse cx="162" cy="185" rx="20" ry="24" fill="white"/>
+<circle cx="162" cy="185" r="14" fill="#3D2314"/>
+<circle cx="162" cy="185" r="8" fill="#000"/>
+<circle cx="167" cy="180" r="5" fill="white"/>
+<ellipse cx="238" cy="185" rx="20" ry="24" fill="white"/>
+<circle cx="238" cy="185" r="14" fill="#3D2314"/>
+<circle cx="238" cy="185" r="8" fill="#000"/>
+<circle cx="243" cy="180" r="5" fill="white"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
-<ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
+<ellipse cx="200" cy="265" rx="16" ry="22" fill="#8B0000"/>
+<path d="M147 160 Q162 150 177 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
+<path d="M223 160 Q238 150 253 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <rect x="155" y="55" width="90" height="18" rx="3" fill="#8B0000"/><rect x="145" y="70" width="110" height="8" fill="#8B0000"/>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="254" cy="286" r="3" fill="#FFD700" opacity="0.6"/><circle cx="208" cy="272" r="3" fill="#FFD700" opacity="0.6"/><circle cx="162" cy="258" r="3" fill="#FFD700" opacity="0.6"/><circle cx="116" cy="244" r="3" fill="#FFD700" opacity="0.6"/><circle cx="270" cy="230" r="3" fill="#FFD700" opacity="0.6"/><circle cx="224" cy="216" r="3" fill="#FFD700" opacity="0.6"/><circle cx="178" cy="202" r="3" fill="#FFD700" opacity="0.6"/><circle cx="132" cy="188" r="3" fill="#FFD700" opacity="0.6"/><circle cx="286" cy="174" r="3" fill="#FFD700" opacity="0.6"/><circle cx="240" cy="160" r="3" fill="#FFD700" opacity="0.6"/><circle cx="194" cy="146" r="3" fill="#FFD700" opacity="0.6"/>
+<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="272" cy="248" r="3" fill="#FFD700" opacity="0.6"/><circle cx="244" cy="196" r="3" fill="#FFD700" opacity="0.6"/><circle cx="216" cy="144" r="3" fill="#FFD700" opacity="0.6"/><circle cx="188" cy="292" r="3" fill="#FFD700" opacity="0.6"/><circle cx="160" cy="240" r="3" fill="#FFD700" opacity="0.6"/><circle cx="132" cy="188" r="3" fill="#FFD700" opacity="0.6"/><circle cx="104" cy="136" r="3" fill="#FFD700" opacity="0.6"/><circle cx="276" cy="284" r="3" fill="#FFD700" opacity="0.6"/><circle cx="248" cy="232" r="3" fill="#FFD700" opacity="0.6"/><circle cx="220" cy="180" r="3" fill="#FFD700" opacity="0.6"/><circle cx="192" cy="128" r="3" fill="#FFD700" opacity="0.6"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
